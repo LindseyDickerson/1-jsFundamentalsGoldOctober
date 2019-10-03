@@ -68,3 +68,17 @@ for (let i = 1; i <= 50; i++) {
     sum += i;
 } console.log(sum);
 //output 1275
+
+
+for (let i = 0; i <= 10; i++){
+console.log(i);
+function count() {
+    let number = i; {
+    if { (i % 2 == 0);
+     console.log('The number is even');
+    } else { 
+      console.log('The number is odd');
+    }
+    }  
+}
+count()

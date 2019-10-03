@@ -30,3 +30,4 @@ function capitalizeName(name) {
 }
 const myName = capitalizeName('autumn');
 console.log(myName + ' how are you doing?'); //output: Autumn how are you doing?
+
